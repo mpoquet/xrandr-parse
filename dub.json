@@ -1,0 +1,10 @@
+{
+	"name": "xrandr-parse",
+	"authors": [
+		"Millian Poquet"
+	],
+	"description": "A xrandr parsing library",
+	"copyright": "Copyright © 2018, Millian Poquet",
+	"license": "GPL-3.0",
+    "targetType": "library"
+}
