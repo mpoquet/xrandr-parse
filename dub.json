@@ -1,10 +1,11 @@
 {
-	"name": "xrandr-parse",
-	"authors": [
-		"Millian Poquet"
-	],
-	"description": "A xrandr parsing library",
-	"copyright": "Copyright © 2018, Millian Poquet",
-	"license": "GPL-3.0",
-    "targetType": "library"
+  "authors": [
+    "Millian Poquet"
+  ],
+  "copyright": "Copyright © 2018, Millian Poquet",
+  "description": "A xrandr parsing library and CLI tool",
+  "license": "GPL-3.0",
+  "name": "xrandr-parse",
+  "targetName": "xrandr-parse",
+  "targetType": "library"
 }
